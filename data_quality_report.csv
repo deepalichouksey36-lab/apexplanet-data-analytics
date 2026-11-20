@@ -1,0 +1,26 @@
+column,dtype,missing_values,unique_values
+Row ID,float64,0,9995
+Order ID,object,0,5015
+Order Date,datetime64[ns],302,1236
+Ship Date,datetime64[ns],302,1334
+Ship Mode,object,0,4
+Customer ID,object,0,793
+Customer Name,object,0,793
+Segment,object,0,3
+Country,object,0,1
+City,object,0,531
+State,object,0,49
+Postal Code,string,0,630
+Region,object,0,4
+Product ID,object,0,1862
+Category,object,0,3
+Sub-Category,object,0,17
+Product Name,object,0,1850
+Sales,float64,0,5826
+Quantity,float64,0,14
+Discount,float64,0,12
+Profit,float64,0,7288
+Order Year,float64,302,4
+Order Month,object,0,49
+Shipping Days,float64,302,8
+Profit Margin,float64,0,573
